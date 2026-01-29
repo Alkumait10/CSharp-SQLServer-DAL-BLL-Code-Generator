@@ -1,0 +1,28 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+
+## Logs
+*.log
+
+## OS files
+Thumbs.db
+.DS_Store
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## NuGet
+packages/
+*.nupkg
+
+## App settings
+appsettings.json
