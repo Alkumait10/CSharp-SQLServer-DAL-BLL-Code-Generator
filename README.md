@@ -52,7 +52,7 @@ This design choice keeps the generated code simple, safe, and aligned with commo
 ## 📦 Download
 
 You can download the compiled executable here:  
-👉 **[Download EXE](PUT_RELEASE_LINK_HERE)**
+👉 **[Download EXE](https://github.com/Alkumait10/CSharp-SQLServer-DAL-BLL-Code-Generator/releases/download/v1.0.0/CodeGenerator_Setup.exe)**
 
 ---
 
